@@ -12,7 +12,7 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  return "sayHiToGrandma".toLowerCase
+  return "string".toLowerCase
 }
 function sayHiToGrandma(string) {
   return "YES INDEED!".toUpperCase
